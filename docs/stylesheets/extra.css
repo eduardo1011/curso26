@@ -1,16 +1,19 @@
-:root > * {
-    --md-primary-fg-color: #0072CE;
-    --md-primary-fg-color--light: #0072CE;
-    --md-primary-fg-color--dark: #0072CE;
-    --md-accent-fg-color: #0072CE;
+:root,
+[data-md-color-scheme="default"] {
+    --md-primary-fg-color: #0072CE !important;
+    --md-primary-fg-color--light: #0072CE !important;
+    --md-primary-fg-color--dark: #0072CE !important;
+    --md-accent-fg-color: #0072CE !important;
 }
 
 /* Barra superior */
 .md-header {
-    background-color: #0072CE;
+    background: #0072CE !important;
+    background-color: #0072CE !important;
 }
 
-/* Pestañas superiores, si se habilitan */
+/* Barra de pestañas, si está habilitada */
 .md-tabs {
-    background-color: #0072CE;
+    background: #0072CE !important;
+    background-color: #0072CE !important;
 }
