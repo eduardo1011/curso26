@@ -30,10 +30,8 @@
     position: fixed;
 
     /* Posición */
-    left: 50%;
-    right: auto;
+    right: 20%;
     bottom: -15%;
-    transform: translateX(-50%);
 
     /* Tamaño */
     width: min(68vw, 950px);
@@ -46,7 +44,7 @@
     background-size: contain;
 
     /* Apariencia de marca de agua */
-    opacity: 0.12;
+    opacity: 0.18;
     mix-blend-mode: multiply;
 
     /* Evita que interfiera con clics */
