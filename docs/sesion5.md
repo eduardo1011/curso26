@@ -1,22 +1,11 @@
-# Sesión 3
+### VISUALIZACIONES  
+> #### Introducción a Matplotlib.  
+> #### Distribución geométrica del genoma (capas).   
+> #### Visualización avanzada con Matplotlib.  
+> #### Mapa genómico. 
 
-## Introducción a Python
-
-En esta sesión revisaremos los conceptos fundamentales de Python.
-
-## Objetivos
-
-- Conocer las variables.
-- Utilizar estructuras de datos.
-- Ejecutar código en Jupyter Notebook.
-
-## Ejemplo
+## Código compartido
 
 ```python
-secuencia = "ATGCGATCGATC"
-print(len(secuencia))
+code
 ```
-
-## Actividad
-
-Calcular la longitud y el contenido de GC de una secuencia.
