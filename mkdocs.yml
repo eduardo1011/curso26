@@ -24,7 +24,7 @@ plugins:
       lang: es
 
 nav:
-  - Curso de Bioinformática: index.md
+  - Programa del curso: index.md
   - Sesión 1: sesion1.md
   - Sesión 2: sesion2.md
   - Sesión 3: sesion3.md
