@@ -1,4 +1,3 @@
-# Programa del curso
 
 ## Sesión 1 (5 horas)
 ### INTRODUCCIÓN
