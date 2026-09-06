@@ -1,22 +1,8 @@
 # Sesión 1
 
-## Introducción a Python
-
-En esta sesión revisaremos los conceptos fundamentales de Python.
-
-## Objetivos
-
-- Conocer las variables.
-- Utilizar estructuras de datos.
-- Ejecutar código en Jupyter Notebook.
-
-## Ejemplo
+## Código compartido
 
 ```python
-secuencia = "ATGCGATCGATC"
-print(len(secuencia))
+from IPython.display import clear_output, display, HTML
+display(HTML("<style>.container { width:77% !important; }</style>"))
 ```
-
-## Actividad
-
-Calcular la longitud y el contenido de GC de una secuencia.
