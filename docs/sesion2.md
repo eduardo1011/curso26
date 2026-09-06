@@ -5,3 +5,9 @@
 > #### Listas y tuplas (list, tuple).  
 > #### Diccionarios (dict).   
 > #### DataFrame (Pandas).
+
+## Código compartido
+
+```python
+code
+```
