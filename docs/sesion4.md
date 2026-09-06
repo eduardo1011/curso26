@@ -1,22 +1,11 @@
-# Sesión 4
+### EJERCICIOS: APLICACIÓN DE ESTRUCTURAS Y FUNCIONES  
+> #### Introducción a la Genómica de bacterias.  
+> #### Contenido de GC y GC Skew.  
+> #### Identificación de patrones.  
+> #### Anotación funcional (clases de enzimas, GO Slim)
 
-## Introducción a Python
-
-En esta sesión revisaremos los conceptos fundamentales de Python.
-
-## Objetivos
-
-- Conocer las variables.
-- Utilizar estructuras de datos.
-- Ejecutar código en Jupyter Notebook.
-
-## Ejemplo
+## Código compartido
 
 ```python
-secuencia = "ATGCGATCGATC"
-print(len(secuencia))
-```
-
-## Actividad
-
-Calcular la longitud y el contenido de GC de una secuencia.
+code
+````
