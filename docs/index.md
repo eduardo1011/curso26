@@ -1,24 +1,41 @@
-# Curso de Bioinformática
+# Programa del curso
 
-## Genómica microbiana
+## Sesión 1 (5 horas)
+### INTRODUCCIÓN
+> #### Recomendaciones.  
+> #### Python.  
+> #### Jupyter Notebook.  
+> #### Python en Jupyter Notebook.  
+> #### Texto enriquecido: Markdown.  
+> #### Variables.  
+> #### Operadores boleanos.  
+> #### Introducción a la estructura del lenguaje.  
 
-## Objetivo general
+## Sesión 2 (5 horas)
+### ESTRUCTURA DEL LENGUAJE
+> #### Cadenas de caracteres.  
+> #### Expresiones regulares (re).  
+> #### Listas y tuplas (list, tuple).  
+> #### Diccionarios (dict).   
+> #### DataFrame (Pandas).  
 
-Desarrollar competencias teóricas y prácticas en bioinformática para
-el análisis de genomas bacterianos usando Python y herramientas
-computacionales.
+## Sesión 3 (5 horas)
+### CONTROL DE FLUJO Y FUNCIONES
+> #### Condicionales (if, elif y else).  
+> #### Bucles (for).  
+> #### Funciones (def).  
+> #### Iteraciones (condicionales y bucles).  
 
-## Objetivos específicos
+## Sesión 4 (5 horas)  
+### EJERCICIOS: APLICACIÓN DE ESTRUCTURAS Y FUNCIONES  
+> #### Introducción a la Genómica de bacterias.  
+> #### Contenido de GC y GC Skew.  
+> #### Identificación de patrones.  
+> #### Anotación funcional (clases de enzimas, GO Slim)  
 
-- Adquirir conocimientos básicos e intermedios de Python.
-- Procesar y analizar datos genómicos bacterianos.
-- Desarrollar análisis bioinformáticos reproducibles.
-- Visualizar y comunicar resultados genómicos.
-
-## Programa del curso
-
-1. Sesión 1: introducción a Python.
-2. Sesión 2: manejo de secuencias.
-3. Sesión 3: análisis de genomas.
-4. Sesión 4: visualización.
-5. Sesión 5: proyecto integrador.
+## Sesión 5 (5 horas)  
+### VISUALIZACIONES  
+> #### Introducción a Matplotlib.  
+> #### Distribución geométrica del genoma (capas).   
+> #### Visualización avanzada con Matplotlib.  
+> #### Mapa genómico.  
