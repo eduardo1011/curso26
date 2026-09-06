@@ -17,3 +17,52 @@
     background: #0072CE !important;
     background-color: #0072CE !important;
 }
+
+/* Contenedor principal */
+.md-main {
+    position: relative;
+    isolation: isolate;
+}
+
+/* Marca de agua genómica */
+.md-main::before {
+    content: "";
+    position: fixed;
+
+    /* Posición */
+    right: 3%;
+    bottom: -15%;
+
+    /* Tamaño */
+    width: min(68vw, 950px);
+    aspect-ratio: 1 / 1;
+
+    /* Imagen */
+    background-image: url("../assets/GENOME_PLOT_LOGO.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+
+    /* Apariencia de marca de agua */
+    opacity: 0.12;
+    mix-blend-mode: multiply;
+
+    /* Evita que interfiera con clics */
+    pointer-events: none;
+    z-index: -1;
+}
+
+/* Mantiene el contenido sobre la marca de agua */
+.md-main__inner {
+    position: relative;
+    z-index: 1;
+}
+
+@media screen and (max-width: 768px) {
+    .md-main::before {
+        width: 120vw;
+        right: -55%;
+        bottom: -15%;
+        opacity: 0.07;
+    }
+}
