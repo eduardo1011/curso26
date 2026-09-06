@@ -1,0 +1,16 @@
+:root > * {
+    --md-primary-fg-color: #0072CE;
+    --md-primary-fg-color--light: #2997e2;
+    --md-primary-fg-color--dark: #00589f;
+    --md-accent-fg-color: #0072CE;
+}
+
+/* Barra superior */
+.md-header {
+    background-color: #0072CE;
+}
+
+/* Pestañas superiores, si se habilitan */
+.md-tabs {
+    background-color: #0072CE;
+}
