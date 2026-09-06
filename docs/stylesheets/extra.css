@@ -24,6 +24,14 @@
     isolation: isolate;
 }
 
+.md-grid {
+    max-width: 92%;
+}
+
+.md-content {
+    max-width: none;
+}
+
 /* Marca de agua genómica */
 .md-main::before {
     content: "";
