@@ -1,0 +1,41 @@
+site_name: Curso de Bioinformática
+site_description: Genómica microbiana
+site_url: https://uamx.bio26.com
+
+theme:
+  name: material
+  language: es
+
+  palette:
+    primary: blue
+    accent: blue
+
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.tracking
+    - navigation.top
+    - toc.follow
+    - search.suggest
+    - search.highlight
+
+plugins:
+  - search:
+      lang: es
+
+nav:
+  - Curso de Bioinformática: index.md
+  - Sesión 1: sesion1.md
+  - Sesión 2: sesion2.md
+  - Sesión 3: sesion3.md
+  - Sesión 4: sesion4.md
+  - Sesión 5: sesion5.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+
+copyright: Curso de Bioinformática · 2026
