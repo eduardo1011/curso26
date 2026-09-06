@@ -1,6 +1,6 @@
 site_name: Bioinformática aplicada a la genómica bacteriana usando Python
-site_description: Genómica microbiana
-site_url: https://uamx.bio26.com
+site_description:
+site_url:
 
 theme:
   name: material
