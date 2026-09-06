@@ -9,5 +9,7 @@
 ## Código compartido
 
 ```python
-code
+# configura el ancho de la página
+from IPython.display import clear_output, display, HTML
+display(HTML("<style>.container { width:85% !important; }</style>"))
 ```
