@@ -4,7 +4,8 @@
 > #### Funciones (def).  
 > #### Iteraciones (condicionales y bucles).
 
-```python
-Code
+## Código compartido
 
+```python
+code
 ```
