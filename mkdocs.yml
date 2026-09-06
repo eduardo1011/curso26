@@ -1,4 +1,4 @@
-site_name: Curso de Bioinformática
+site_name: Bioinformática aplicada a la genómica bacteriana usando Python
 site_description: Genómica microbiana
 site_url: https://uamx.bio26.com
 
@@ -7,8 +7,9 @@ theme:
   language: es
 
   palette:
-    primary: #0072CE
-    accent: #0072CE
+    scheme: default
+    primary: custom
+    accent: custom
 
   features:
     - navigation.sections
