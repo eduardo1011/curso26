@@ -30,8 +30,10 @@
     position: fixed;
 
     /* Posición */
-    right: 3%;
+    left: 50%;
+    right: auto;
     bottom: -15%;
+    transform: translateX(-50%);
 
     /* Tamaño */
     width: min(68vw, 950px);
