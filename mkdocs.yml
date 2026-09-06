@@ -7,8 +7,8 @@ theme:
   language: es
 
   palette:
-    primary: blue
-    accent: blue
+    primary: #0072CE
+    accent: #0072CE
 
   features:
     - navigation.sections
@@ -38,4 +38,4 @@ markdown_extensions:
   - toc:
       permalink: true
 
-copyright: Curso de Bioinformática · 2026
+copyright: Curso de Bioinformática · Septiembre · 2026
