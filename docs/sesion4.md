@@ -1,3 +1,4 @@
+
 ### EJERCICIOS: APLICACIÓN DE ESTRUCTURAS Y FUNCIONES  
 > #### Introducción a la Genómica de bacterias.  
 > #### Contenido de GC y GC Skew.  
