@@ -7,12 +7,16 @@
 ## Código compartido
 
 ```python
-Identificador	Identidad (%)	Cobertura (%)	E-value	Bitscore
+prot = """Identificador	Identidad (%)	Cobertura (%)	E-value	Bitscore
 PROT_001	96	88	1e-40	210
 PROT_002	87	82	2e-12	95
 PROT_003	91	68	0.002	44
 PROT_004	76	55	1e-30	130
 PROT_005	89	74	0.01	38
 PROT_006	90	75	1e-5	50
-PROT_007	84	78	0.08	67
+PROT_007	84	78	0.08	67"""
+tabla = []
+for i in prot.split('\n')[1:]:
+    j = i.split('\t')
+    tabla.append([j[0], int(j[1]), int(j[2]), float(j[3]), int(j[4])])
 ```
