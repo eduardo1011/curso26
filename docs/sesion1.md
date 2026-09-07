@@ -8,6 +8,7 @@
 > #### Operadores boleanos.  
 > #### Introducción a la estructura del lenguaje.
 
+
 <div style="margin-top:30px; font-family:Arial,sans-serif;">
 
   <div style="margin-bottom:25px; padding:12px 18px; border-left:6px solid #A85A00; background:linear-gradient(90deg, rgba(168,90,0,0.12), rgba(168,90,0,0)); border-radius:4px;">
@@ -18,20 +19,19 @@
       Material para trabajar en clase.
     </p>
   </div>
-
-  <a href="https://eduardo1011.github.io/curso26/notebooks/s1-jup-mark.ipynb"
-     download="s1-jup-mark.ipynb"
-     style="display:block; width:350px; height:35px; box-sizing:border-box; margin-bottom:14px; padding:5px 15px; background-color:#0B3041; color:white; text-decoration:none; font-weight:bold; border-radius:16px; box-shadow:0 3px 8px rgba(0,0,0,0.18);">
-    ↓ Jupyter y Markdown
-  </a>
-
-  <a href="https://eduardo1011.github.io/curso26/notebooks/s1-var-oper.ipynb"
-     download="s1-var-oper.ipynb"
-     style="display:block; width:350px; height:35px; box-sizing:border-box; margin-bottom:14px; padding:5px 15px; background-color:#0B3041; color:white; text-decoration:none; font-weight:bold; border-radius:16px; box-shadow:0 3px 8px rgba(0,0,0,0.18);">
-    ↓ Variables y Operadores
-  </a>
-
 </div>
+
+<a href="https://eduardo1011.github.io/curso26/notebooks/s1-jup-mark.ipynb"
+ download="s1-jup-mark.ipynb"
+ style="display:inline-block; padding:12px 22px; background-color:#0B3041; color:white; text-decoration:none; font-weight:bold; border-radius:15px; font-family:Arial,sans-serif;">
+↓ Jupyter y Markdown
+</a>
+
+<a href="https://eduardo1011.github.io/curso26/notebooks/s1-var-oper.ipynb"
+ download="s1-var-oper.ipynb"
+ style="display:inline-block; padding:12px 22px; background-color:#0B3041; color:white; text-decoration:none; font-weight:bold; border-radius:15px; font-family:Arial,sans-serif;">
+↓ Variables y Operadores
+</a>
 
 ## Código compartido
 
