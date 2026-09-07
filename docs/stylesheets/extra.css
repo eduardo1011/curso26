@@ -34,59 +34,50 @@
 
 /* Marca de agua genómica */
 .md-main::before {
-    content: "";
-    position: fixed;
-
-    /* Posición */
-    right: 20%;
-    bottom: -15%;
-
-    /* Tamaño */
-    width: min(68vw, 950px);
-    aspect-ratio: 1 / 1;
-
-    /* Imagen */
-    background-image: url("../assets/GENOME_PLOT_LOGO.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
-
-    /* Apariencia de marca de agua */
-    opacity: 0.35;
-    mix-blend-mode: multiply;
-
-    /* Evita que interfiera con clics */
-    pointer-events: none;
-    z-index: -1;
-}
-
-body::after {
   content: "";
   position: fixed;
 
-  top: -55px;
-  left: -70px;
+  /* Ocupa toda la ventana */
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
 
-  width: 760px;
-  height: 760px;
+  /* Primera imagen: ADN
+     Segunda imagen: genoma circular */
+  background-image:
+    url("../assets/dna-blanco.png"),
+    url("../assets/GENOME_PLOT_LOGO.jpg");
 
-  background-image: url("../assets/dna-blanco.png");
-  background-repeat: no-repeat;
-  background-position: left top;
-  background-size: contain;
+  background-repeat:
+    no-repeat,
+    no-repeat;
 
-  opacity: 0.38;
+  /* Posición independiente de cada figura */
+  background-position:
+    left -70px top -70px,
+    right 20% bottom -140px;
+
+  /* Tamaño independiente de cada figura */
+  background-size:
+    760px 760px,
+    min(68vw, 950px) min(68vw, 950px);
+
+  opacity: 0.35;
   mix-blend-mode: multiply;
 
   pointer-events: none;
-  z-index: 2;
+  z-index: -1;
 }
 
-/* Mantiene el contenido sobre las imágenes */
+
+/* Mantiene el contenido encima de ambas figuras */
+
 .md-main__inner {
   position: relative;
-  z-index: 3;
+  z-index: 1;
 }
+
 
 /* Mantiene la barra azul por encima */
 .md-header {
