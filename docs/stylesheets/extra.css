@@ -32,38 +32,53 @@
     max-width: none;
 }
 
+/* ========================================
+   FIGURA CIRCULAR
+   ======================================== */
 /* Marca de agua genómica */
 .md-main::before {
   content: "";
   position: fixed;
 
-  /* Ocupa toda la ventana */
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
+  right: 20%;
+  bottom: -140px;
 
-  /* Primera imagen: ADN
-     Segunda imagen: genoma circular */
-  background-image:
-    url("../assets/dna-blanco.png"),
-    url("../assets/GENOME_PLOT_LOGO.jpg");
+  width: min(68vw, 950px);
+  height: min(68vw, 950px);
 
-  background-repeat:
-    no-repeat,
-    no-repeat;
+  background-image: url("../assets/GENOME_PLOT_LOGO.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
 
-  /* Posición independiente de cada figura */
-  background-position:
-    left -70px top -70px,
-    right 20% bottom -140px;
+  opacity: 0.30;
+  mix-blend-mode: multiply;
 
-  /* Tamaño independiente de cada figura */
-  background-size:
-    760px 760px,
-    min(68vw, 950px) min(68vw, 950px);
+  pointer-events: none;
+  z-index: -1;
+}
 
-  opacity: 0.35;
+/* ========================================
+   HÉLICE DE ADN
+   ======================================== */
+
+.md-main::after {
+  content: "";
+  position: fixed;
+
+  top: -70px;
+  left: -70px;
+
+  width: 600px;
+  height: 600px;
+
+  background-image: url("../assets/dna-blanco.png");
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-size: contain;
+
+  /* Solamente controla la opacidad del ADN */
+  opacity: 0.15;
   mix-blend-mode: multiply;
 
   pointer-events: none;
