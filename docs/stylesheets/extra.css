@@ -70,7 +70,7 @@
    HÉLICE DE ADN DEBAJO DEL MENÚ IZQUIERDO
    ======================================== */
 
-.md-sidebar--primary .md-sidebar__inner::after {
+.md-main::after {
   content: "";
   display: block;
 
