@@ -8,7 +8,7 @@
 > #### Operadores boleanos.  
 > #### Introducción a la estructura del lenguaje.
 
-# Descarga de bitácoras electrónicas
+# Descarga de notebooks
 
 <a href="/curso26/notebooks/s1-jup-mark.ipynb"
    download="s1-jup-mark.ipynb"
