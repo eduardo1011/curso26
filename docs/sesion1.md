@@ -24,3 +24,7 @@ for i in prot.split('\n')[1:]:
     j = i.split('\t')
     tabla.append([j[0], int(j[1]), int(j[2]), float(j[3]), int(j[4])])
 ```
+
+```python
+code
+```
