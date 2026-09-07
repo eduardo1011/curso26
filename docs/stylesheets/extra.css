@@ -78,7 +78,7 @@
   background-size: contain;
 
   /* Solamente controla la opacidad del ADN */
-  opacity: 0.15;
+  opacity: 0.1;
   mix-blend-mode: multiply;
 
   pointer-events: none;
