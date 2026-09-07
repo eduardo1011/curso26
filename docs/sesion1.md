@@ -36,14 +36,14 @@
 ## Código compartido
 
 ```python
-prot = """Identificador	Identidad (%)	Cobertura (%)	E-value	Bitscore
-PROT_001	96	88	1e-40	210
-PROT_002	87	82	2e-12	95
-PROT_003	91	68	0.002	44
-PROT_004	76	55	1e-30	130
-PROT_005	89	74	0.01	38
-PROT_006	90	75	1e-5	50
-PROT_007	84	78	0.08	67"""
+prot = """Identificador\tIdentidad (%)\tCobertura (%)\tE-value\tBitscore
+PROT_001\t96\t88\t1e-40\t210
+PROT_002\t87\t82\t2e-12\t95
+PROT_003\t91\t68\t0.002\t44
+PROT_004\t76\t55\t1e-30\t130
+PROT_005\t89\t74\t0.01\t38
+PROT_006\t90\t75\t1e-5\t50
+PROT_007\t84\t78\t0.08\t67"""
 tabla = []
 for i in prot.split('\n')[1:]:
     j = i.split('\t')
