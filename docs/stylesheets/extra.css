@@ -52,7 +52,7 @@
     background-size: contain;
 
     /* Apariencia de marca de agua */
-    opacity: 0.18;
+    opacity: 0.30;
     mix-blend-mode: multiply;
 
     /* Evita que interfiera con clics */
