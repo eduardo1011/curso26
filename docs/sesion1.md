@@ -40,7 +40,7 @@
    ⬇ Descargar notebook de la sesión 1
 </a>
 
-<a href="/curso26/docs/notebooks/s1-jup-mardown.ipynb"
+<a href="/curso26/blob/main/docs/notebooks/s1-jup-mardown.ipynb"
    download="s1-jup-mardown.ipynb"
    style="display:inline-block; padding:12px 22px; background-color:#0072CE; color:white; text-decoration:none; font-weight:bold; border-radius:5px; font-family:Arial,sans-serif;">
    ⬇ Descargar notebook de la sesión 1
