@@ -8,19 +8,30 @@
 > #### Operadores boleanos.  
 > #### Introducción a la estructura del lenguaje.
 
-# Descarga de notebooks
+<div style="margin-top:30px; font-family:Arial,sans-serif;">
 
-<a href="https://eduardo1011.github.io/curso26/notebooks/s1-var-oper.ipynb"
-   download="s1-var-oper.ipynb"
-   style="display:inline-block; padding:12px 22px; background-color:#0072CE; color:white; text-decoration:none; font-weight:bold; border-radius:5px; font-family:Arial,sans-serif;">
-   ⬇ Descargar notebook de la sesión 1
-</a>
+  <div style="margin-bottom:25px; padding:12px 18px; border-left:6px solid #A85A00; background:linear-gradient(90deg, rgba(168,90,0,0.12), rgba(168,90,0,0)); border-radius:4px;">
+    <h2 style="margin:0; color:#A85A00; font-size:25px; font-weight:600;">
+      Descarga de notebooks
+    </h2>
+    <p style="margin:7px 0 0; color:#666666; font-size:16px;">
+      Material para trabajar en clase.
+    </p>
+  </div>
 
-<a href="https://eduardo1011.github.io/curso26/notebooks/s1-jup-mark.ipynb"
-   download="s1-jup-mark.ipynb"
-   style="display:inline-block; padding:12px 22px; background-color:#0072CE; color:white; text-decoration:none; font-weight:bold; border-radius:5px; font-family:Arial,sans-serif;">
-   ⬇ Descargar notebook de la sesión 1
-</a>
+  <a href="https://eduardo1011.github.io/curso26/notebooks/s1-jup-mark.ipynb"
+     download="s1-jup-mark.ipynb"
+     style="display:block; width:350px; height:30px; box-sizing:border-box; margin-bottom:14px; padding:5px 15px; background-color:#0B3041; color:white; text-decoration:none; font-weight:bold; border-radius:6px; box-shadow:0 3px 8px rgba(0,0,0,0.18);">
+    ↓ Descargar: variables y operadores
+  </a>
+
+  <a href="https://eduardo1011.github.io/curso26/notebooks/s1-var-oper.ipynb"
+     download="s1-var-oper.ipynb"
+     style="display:block; width:350px; height:30px; box-sizing:border-box; margin-bottom:14px; padding:5px 15px; background-color:#0B3041; color:white; text-decoration:none; font-weight:bold; border-radius:6px; box-shadow:0 3px 8px rgba(0,0,0,0.18);">
+    ↓ Descargar: Jupyter y Markdown
+  </a>
+
+</div>
 
 ## Código compartido
 
