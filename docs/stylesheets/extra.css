@@ -60,36 +60,38 @@
     z-index: -1;
 }
 
-/* Mantiene el contenido sobre la marca de agua */
-.md-main__inner {
-    position: relative;
-    z-index: 1;
-}
-
-/* ========================================
-   HÉLICE DE ADN DEBAJO DEL MENÚ IZQUIERDO
-   ======================================== */
-
-.md-main::after {
+body::after {
   content: "";
   position: fixed;
 
-  width: 270px;
-  height: 370px;
+  top: -55px;
+  left: -70px;
 
-  margin-top: 28px;
-  margin-left: -45px;
+  width: 760px;
+  height: 760px;
 
   background-image: url("../assets/dna-blanco.png");
   background-repeat: no-repeat;
   background-position: left top;
   background-size: contain;
 
-  opacity: 0.35;
+  opacity: 0.38;
   mix-blend-mode: multiply;
 
   pointer-events: none;
-  z-index: 1;
+  z-index: 2;
+}
+
+/* Mantiene el contenido sobre las imágenes */
+.md-main__inner {
+  position: relative;
+  z-index: 3;
+}
+
+/* Mantiene la barra azul por encima */
+.md-header {
+  position: relative;
+  z-index: 4;
 }
 
 /* ========================================
