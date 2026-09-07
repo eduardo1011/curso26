@@ -23,13 +23,13 @@
 
 <a href="https://eduardo1011.github.io/curso26/notebooks/s1-jup-mark.ipynb"
  download="s1-jup-mark.ipynb"
- style="display:block; width:250px; box-sizing:border-box; margin-bottom:14px; padding:12px 22px; background-color:#0B3041; color:white; text-decoration:none; font-weight:bold; border-radius:15px; font-family:Arial,sans-serif;">
+ style="display:block; width:350px; box-sizing:border-box; margin-bottom:14px; padding:12px 22px; background-color:#0B3041; color:white; text-decoration:none; font-weight:bold; border-radius:15px; font-family:Arial,sans-serif;">
 ↓ Jupyter y Markdown
 </a>
 
 <a href="https://eduardo1011.github.io/curso26/notebooks/s1-var-oper.ipynb"
  download="s1-var-oper.ipynb"
- style="display:block; width:250px; box-sizing:border-box; margin-bottom:14px; padding:12px 22px; background-color:#0B3041; color:white; text-decoration:none; font-weight:bold; border-radius:15px; font-family:Arial,sans-serif;">
+ style="display:block; width:350px; box-sizing:border-box; margin-bottom:14px; padding:12px 22px; background-color:#0B3041; color:white; text-decoration:none; font-weight:bold; border-radius:15px; font-family:Arial,sans-serif;">
 ↓ Variables y Operadores
 </a>
 
