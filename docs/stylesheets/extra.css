@@ -52,12 +52,32 @@
     background-size: contain;
 
     /* Apariencia de marca de agua */
-    opacity: 0.30;
+    opacity: 0.35;
     mix-blend-mode: multiply;
 
     /* Evita que interfiera con clics */
     pointer-events: none;
     z-index: -1;
+}
+
+/* Figura de ADN debajo del menú lateral izquierdo */
+.md-sidebar--primary .md-sidebar__inner::after {
+  content: "";
+  display: block;
+
+  width: 270px;
+  height: 400px;
+
+  margin-top: 30px;
+  margin-left: -55px;
+
+  background-image: url("../assets/dna-blanco.png");
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: contain;
+
+  opacity: 0.35;
+  pointer-events: none;
 }
 
 /* Mantiene el contenido sobre la marca de agua */
