@@ -8,6 +8,12 @@
 > #### Operadores boleanos.  
 > #### Introducción a la estructura del lenguaje.
 
+# Descarga de bitácoras electrónicas
+
+[⬇ Descargar notebook de la sesión 1](notebooks/s1-jup-mardown.ipynb){ .md-button .md-button--primary download }
+
+[⬇ Descargar notebook de la sesión 1](notebooks/s1-var-oper.ipynb){ .md-button .md-button--primary download }
+
 ## Código compartido
 
 ```python
