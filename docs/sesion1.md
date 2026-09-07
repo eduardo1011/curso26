@@ -10,8 +10,14 @@
 
 # Descarga de notebooks
 
-<a href="/curso26/notebooks/s1-var-oper.ipynb"
+<a href="https://eduardo1011.github.io/curso26/notebooks/s1-var-oper.ipynb"
    download="s1-var-oper.ipynb"
+   style="display:inline-block; padding:12px 22px; background-color:#0072CE; color:white; text-decoration:none; font-weight:bold; border-radius:5px; font-family:Arial,sans-serif;">
+   ⬇ Descargar notebook de la sesión 1
+</a>
+
+<a href="https://eduardo1011.github.io/curso26/notebooks/s1-jup-mark.ipynb"
+   download="s1-jup-mark.ipynb"
    style="display:inline-block; padding:12px 22px; background-color:#0072CE; color:white; text-decoration:none; font-weight:bold; border-radius:5px; font-family:Arial,sans-serif;">
    ⬇ Descargar notebook de la sesión 1
 </a>
