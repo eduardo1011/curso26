@@ -21,13 +21,13 @@
 
   <a href="https://eduardo1011.github.io/curso26/notebooks/s1-jup-mark.ipynb"
      download="s1-jup-mark.ipynb"
-     style="display:block; width:350px; height:30px; box-sizing:border-box; margin-bottom:14px; padding:5px 15px; background-color:#0B3041; color:white; text-decoration:none; font-weight:bold; border-radius:6px; box-shadow:0 3px 8px rgba(0,0,0,0.18);">
+     style="display:block; width:350px; height:35px; box-sizing:border-box; margin-bottom:14px; padding:5px 15px; background-color:#0B3041; color:white; text-decoration:none; font-weight:bold; border-radius:16px; box-shadow:0 3px 8px rgba(0,0,0,0.18);">
     ↓ Descargar: variables y operadores
   </a>
 
   <a href="https://eduardo1011.github.io/curso26/notebooks/s1-var-oper.ipynb"
      download="s1-var-oper.ipynb"
-     style="display:block; width:350px; height:30px; box-sizing:border-box; margin-bottom:14px; padding:5px 15px; background-color:#0B3041; color:white; text-decoration:none; font-weight:bold; border-radius:6px; box-shadow:0 3px 8px rgba(0,0,0,0.18);">
+     style="display:block; width:350px; height:35px; box-sizing:border-box; margin-bottom:14px; padding:5px 15px; background-color:#0B3041; color:white; text-decoration:none; font-weight:bold; border-radius:16px; box-shadow:0 3px 8px rgba(0,0,0,0.18);">
     ↓ Descargar: Jupyter y Markdown
   </a>
 
