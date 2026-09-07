@@ -1,6 +1,6 @@
 site_name: Bioinformática aplicada a la genómica bacteriana usando Python
 site_description:
-site_url:
+site_url: https://eduardo1011.github.io/curso26/
 
 theme:
   name: material
@@ -14,13 +14,28 @@ theme:
     accent: custom
 
   features:
+    # Navegación
+    - navigation.instant
+    - navigation.instant.progress
     - navigation.sections
     - navigation.expand
     - navigation.tracking
+    - navigation.path
     - navigation.top
+    - navigation.footer
+    # Índice
     - toc.follow
+    # Buscador
     - search.suggest
     - search.highlight
+    - search.share
+    # Código
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
+    # Contenido
+    - content.tabs.link
+    - content.tooltips
 
 plugins:
   - search:
@@ -41,6 +56,9 @@ markdown_extensions:
   - admonition
   - attr_list
   - tables
+  - attr_list
+  - pymdownx.highlight
+  - pymdownx.superfences
   - toc:
       permalink: true
 
