@@ -9,5 +9,16 @@
 ## Código compartido
 
 ```python
-code
+def open_file(file = ''):
+    fas = {}
+    with open(file) as fq:
+        for line in fq:
+            line = line.rstrip()
+            if '>' in line:
+                header = line.replace('>', '').split(' ')[0]
+                s = ''
+            else:
+                s += line
+            fas[header] =  s
+    return fas
 ```
