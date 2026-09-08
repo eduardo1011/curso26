@@ -33,6 +33,7 @@
 ## Código compartido
 
 ```python
+# función para abrir y guardar secuencias fasta
 def open_file(file = ''):
     fas = {}
     with open(file) as fq:
