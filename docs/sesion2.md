@@ -39,13 +39,13 @@
 <a href="https://eduardo1011.github.io/curso26/data/uniprotkb_tax1386_reviewed_2026_09_08.tsv"
  download="uniprotkb_tax1386_reviewed_2026_09_08.tsv"
  style="display:block; width:350px; box-sizing:border-box; margin-bottom:14px; padding:12px 22px; background-color:#0B3041; color:white; text-decoration:none; font-weight:bold; border-radius:15px; font-family:Arial,sans-serif;">
-↓ Secuencias de nucleótidos
+↓ UniProtKB_taxID_1386
 </a>
 
 <a href="https://eduardo1011.github.io/curso26/data/blastp_resultados.tsv"
  download="blastp_resultados.tsv"
  style="display:block; width:350px; box-sizing:border-box; margin-bottom:14px; padding:12px 22px; background-color:#0B3041; color:white; text-decoration:none; font-weight:bold; border-radius:15px; font-family:Arial,sans-serif;">
-↓ Secuencias de proteínas
+↓ Resultados de Blastp
 </a>
 
 <div style="margin-top:30px; font-family:Arial,sans-serif;">
