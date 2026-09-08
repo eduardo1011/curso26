@@ -42,6 +42,37 @@ secuencias = [
 ]
 ```
 
+<div style="margin-top:30px; font-family:Arial,sans-serif;">
+
+  <div style="margin-bottom:25px; padding:12px 18px; border-left:6px solid #A85A00; background:linear-gradient(90deg, rgba(168,90,0,0.12), rgba(168,90,0,0)); border-radius:4px;">
+    <h2 style="margin:0; color:#A85A00; font-size:25px; font-weight:600;">
+      Ejercicio 2
+    </h2>
+  </div>
+</div>
+
+```markdown
+## Resuelve lo siguiente:
+### 1. Abrir el archivo fasta (nucleotidos.fasta).
+### 2. Calcula la longitud de cada secuencia.
+### 3. Usando kmeros de 7 y 11 nucleótidos determina qué secuencias son más similares. Usar `set()`
+```
+
+<div style="margin-top:30px; font-family:Arial,sans-serif;">
+
+  <div style="margin-bottom:25px; padding:12px 18px; border-left:6px solid #A85A00; background:linear-gradient(90deg, rgba(168,90,0,0.12), rgba(168,90,0,0)); border-radius:4px;">
+    <h2 style="margin:0; color:#A85A00; font-size:25px; font-weight:600;">
+      Ejercicio 3
+    </h2>
+  </div>
+</div>
+
+```markdown
+## Resuelve lo siguiente:
+### 1. Abrir el archivo fasta (proteinas.fasta).
+### 2. Calcula la longitud de cada secuencia.
+### 3. Usando kmeros de 3 y 5 aminoácidos determina qué secuencias son más similares. Usar `set()`
+```
 
 
 <div style="margin-top:30px; font-family:Arial,sans-serif;">
