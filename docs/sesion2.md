@@ -111,8 +111,8 @@ secuencias = [
 ↓ UniProtKB_taxID_1386
 </a>
 
-<a href="https://eduardo1011.github.io/curso26/data/blastp_resultados.tsv"
- download="blastp_resultados.tsv"
+<a href="https://eduardo1011.github.io/curso26/data/blastp_resultados1.tsv"
+ download="blastp_resultados1.tsv"
  style="display:block; width:350px; box-sizing:border-box; margin-bottom:14px; padding:12px 22px; background-color:#0B3041; color:white; text-decoration:none; font-weight:bold; border-radius:15px; font-family:Arial,sans-serif;">
 ↓ Resultados de Blastp
 </a>
