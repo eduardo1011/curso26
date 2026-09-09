@@ -15,7 +15,6 @@
 </div>
 
 ```markdown
-### 1. Descargar y abrir el archivo proteoma.fasta
 ### 2. Descubrir cuántas proteínas tiene el proteoma
 ### 3. Qué proteína tiene mayor longitud
 ### 4. Qué proteína tiene menor longitud
@@ -25,16 +24,20 @@
 > ### la media, mediana y desviación estándar (usar `numpy`)
 
 ### 7. Qué proteínas contienen los siguientes patrones
-##### Realiza la búsqueda usano 2 bucles for anidados
+- ##### Realiza la búsqueda usano 2 bucles for anidados
 
-AbrB: `MFMKSTGIVRKVDELGRVVIPIELRRTLGIAEKDALEIYV`  
-CodY: `MALLQKTRIINSMLQAAAGKPVNFKEMAETLRDVIDSNIF`  
-Spo0E: `MGGSSEQERLLVSIDEKRKLMIDAARKQGFTGHDTIRHSQ`  
-Spo0B: `MKDVSKNQEENISDTALTNELIHLLGHSRHDWMNKLQLIK`
+> AbrB: `MFMKSTGIVRKVDELGRVVIPIELRRTLGIAEKDALEIYV`  
+> CodY: `MALLQKTRIINSMLQAAAGKPVNFKEMAETLRDVIDSNIF`  
+> Spo0E: `MGGSSEQERLLVSIDEKRKLMIDAARKQGFTGHDTIRHSQ`  
+> Spo0B: `MKDVSKNQEENISDTALTNELIHLLGHSRHDWMNKLQLIK`  
+> SinR: `MIGQRIKQYRKEKGYSLSELAEKAGVAKSYLSSIERNLQT`  
+> YonT: `MLEKMGIVVAFLISLTVLTINSLTIVEKVRNLKNGTSKKK`  
  
-### 8. Qué logitudes tienen estas proteínas.
-### 9. Tomando estas mismas proteínas, realiza un análisis compocisional, determinar qué aminoácido es el más abundante en cada una de ellas.
-### 10. Toma una secuencia de estas proteínas y realiza un alineamiento (blastp) en la plataforma del NCBI y descubre de qué proteínas se trata.  
+- ### 7.1. Qué logitudes tienen estas proteínas.
+- ### 7.2. Tomando estas mismas proteínas, realiza un análisis compocisional, determinar qué aminoácido es el más abundante en cada una de ellas.
+- ### 7.3. Hay una proteína con la longitud menor que todas, una vez que la encuentres descubre su función, puedes realizar un alineamiento (blastp) en la plataforma del NCBI.
+
+#### <font color = red>Documenta cada resultado en tu Notebook</font>  
 ```
 
 <div style="margin-top:30px; font-family:Arial,sans-serif;">
