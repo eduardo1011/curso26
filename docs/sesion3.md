@@ -7,6 +7,24 @@
 > #### Pandas: Dataframes
 
 <div style="margin-top:30px; font-family:Arial,sans-serif;">
+
+  <div style="margin-bottom:25px; padding:12px 18px; border-left:6px solid #A85A00; background:linear-gradient(90deg, rgba(168,90,0,0.12), rgba(168,90,0,0)); border-radius:4px;">
+    <h2 style="margin:0; color:#A85A00; font-size:25px; font-weight:600;">
+      Descarga de Notebook
+    </h2>
+    <p style="margin:7px 0 0; color:#666666; font-size:16px;">
+      Material para trabajar en clase.
+    </p>
+  </div>
+</div>
+
+<a href="https://eduardo1011.github.io/curso26/notebooks/s3-con-data.ipynb"
+ download="s3-con-data.ipynb"
+ style="display:block; width:350px; box-sizing:border-box; margin-bottom:14px; padding:12px 22px; background-color:#0B3041; color:white; text-decoration:none; font-weight:bold; border-radius:15px; font-family:Arial,sans-serif;">
+↓ Jupyter y Markdown
+</a>
+
+<div style="margin-top:30px; font-family:Arial,sans-serif;">
   <div style="margin-bottom:25px; padding:12px 18px; border-left:6px solid #A85A00; background:linear-gradient(90deg, rgba(168,90,0,0.12), rgba(168,90,0,0)); border-radius:4px;">
     <h2 style="margin:0; color:#A85A00; font-size:25px; font-weight:600;">
       Ejercicio 1
