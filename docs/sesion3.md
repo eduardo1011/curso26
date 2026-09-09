@@ -3,6 +3,7 @@
 > #### Bucles (for).  
 > #### Funciones (def).  
 > #### Iteraciones (condicionales y bucles).
+### DataFrame (Pandas)
 > #### Pandas: Dataframes
 
 <div style="margin-top:30px; font-family:Arial,sans-serif;">
@@ -21,14 +22,19 @@
 
 ### 5. Guardar todas todas las longitudes en una lista
 ### 6. A partir de la lista con longitudes, filtra valores mayores a 100 aa, y determinar:
-> ### la media, mediana y desviación estándar
+> ### la media, mediana y desviación estándar (usar `numpy`)
 
 ### 7. Qué proteínas contienen los siguientes patrones
-##### Reguladores de transcripción globales
+##### Realiza la búsqueda usano 2 bucles for anidados
+
 AbrB: `MFMKSTGIVRKVDELGRVVIPIELRRTLGIAEKDALEIYV`  
 CodY: `MALLQKTRIINSMLQAAAGKPVNFKEMAETLRDVIDSNIF`  
 Spo0E: `MGGSSEQERLLVSIDEKRKLMIDAARKQGFTGHDTIRHSQ`  
-Spo0B: `MKDVSKNQEENISDTALTNELIHLLGHSRHDWMNKLQLIK`  
+Spo0B: `MKDVSKNQEENISDTALTNELIHLLGHSRHDWMNKLQLIK`
+ 
+### 8. Qué logitudes tienen estas proteínas.
+### 9. Tomando estas mismas proteínas, realiza un análisis compocisional, determinar qué aminoácido es el más abundante en cada una de ellas.
+### 10. Toma una secuencia de estas proteínas y realiza un alineamiento (blastp) en la plataforma del NCBI y descubre de qué proteínas se trata.  
 ```
 
 <div style="margin-top:30px; font-family:Arial,sans-serif;">
