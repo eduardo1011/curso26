@@ -60,6 +60,17 @@ Spo0B: `MKDVSKNQEENISDTALTNELIHLLGHSRHDWMNKLQLIK`
 </div>
 
 ```python
+# dataframe 1
+d = {'prot': ['PRO1', 'PRO2', 'PRO3', 'PRO4', 'PRO5', 'PRO6', 'PRO7'],
+     'col1': [6, 7, 8, 9, 10, 10, 5],
+     'col2': [11, 12, 13, 14, 15, 14, 15],
+     'col3': [16, 17, 18, 19, 20, 7, 11],
+     'col4': [6, 7, 8, 9, 10, 10, 5],
+     'col5': [6, 7, 8, 9, 10, 10, 5]}
+```
+
+```python
+# dataframe 2
 m = {'prot': ['PRO1', 'PRO2', 'PRO3', 'PRO4', 'PRO5', 'PRO6', 'PRO7'],
      'A': ['O34539', 'O34525', 'O34327', 'O31854', 'C1F0A7', 'C1EUT6', 'C1ES32'],
      'B': ['YjiC', 'SppA', 'rapJ', 'CdaS', 'arsC', 'mdh', 'tmk'],
