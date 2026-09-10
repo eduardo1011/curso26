@@ -3,7 +3,24 @@
 > #### Introducción a la Genómica de bacterias.  
 > #### Contenido de GC y GC Skew.  
 > #### Identificación de patrones.  
-> #### Anotación funcional (clases de enzimas, GO Slim).  
+> #### Anotación funcional (clases de enzimas, GO Slim).
+
+<div style="margin-top:30px; font-family:Arial,sans-serif;">
+  <div style="margin-bottom:25px; padding:12px 18px; border-left:6px solid #A85A00; background:linear-gradient(90deg, rgba(168,90,0,0.12), rgba(168,90,0,0)); border-radius:4px;">
+    <h2 style="margin:0; color:#A85A00; font-size:25px; font-weight:600;">
+      Continuación con el ejercicio de ayer
+    </h2>
+  </div>
+</div>
+
+```python
+### Cuantas proteínas no tienen términos GO
+### Cuántos organismos diferentes aparecen en la columna Organism
+### Qué proteínas de la columna qacc quedaron excluídas de esta tabla
+### ¿El organismo más frecuente presenta también la identidad más alta?
+### ¿Existe un sesgo hacia determinadas especies de Bacillus?
+### ¿Cuáles son los diez términos GO más frecuentes?
+```
 
 <div style="margin-top:30px; font-family:Arial,sans-serif;">
   <div style="margin-bottom:25px; padding:12px 18px; border-left:6px solid #A85A00; background:linear-gradient(90deg, rgba(168,90,0,0.12), rgba(168,90,0,0)); border-radius:4px;">
