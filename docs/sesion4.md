@@ -100,3 +100,17 @@ def red_fna(file_fna = ''):
     seq = "".join(seq_parts)
     return seq
 ```
+
+```python
+# construir una base de datos usando el proteoma
+db_file = ''
+makedb = subprocess.check_output(['makeblastdb','-in', db_file,'-dbtype','prot','-parse_seqids', '-out', 'db/uniprotkb'])
+print(makedb.decode())
+```
+
+```python
+subprocess.call('blastp -db db/uniprotkb -query .faa -evalue 1E-6 -outfmt "6 qacc sacc qlen slen length qstart qend sstart '\
+                'send score bitscore evalue pident nident mismatch positive gaps gapopen stitle" -max_target_seqs 500 -max_hsps 500'\
+                ' -out blastp_genome_bac_proteome.txt', shell = True)
+```
+
