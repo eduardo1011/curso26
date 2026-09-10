@@ -5,8 +5,57 @@
 > #### Identificación de patrones.  
 > #### Anotación funcional (clases de enzimas, GO Slim).  
 
+<div style="margin-top:30px; font-family:Arial,sans-serif;">
+  <div style="margin-bottom:25px; padding:12px 18px; border-left:6px solid #A85A00; background:linear-gradient(90deg, rgba(168,90,0,0.12), rgba(168,90,0,0)); border-radius:4px;">
+    <h2 style="margin:0; color:#A85A00; font-size:25px; font-weight:600;">
+      Descarga de archivos
+    </h2>
+  </div>
+</div>
 
+<a href="https://eduardo1011.github.io/curso26/data/genome_bac.fna"
+ download="genome_bac.fna"
+ style="display:block; width:350px; box-sizing:border-box; margin-bottom:14px; padding:12px 22px; background-color:#0B3041; color:white; text-decoration:none; font-weight:bold; border-radius:15px; font-family:Arial,sans-serif;">
+↓ Genoma
+</a>
 
+<a href="https://eduardo1011.github.io/curso26/data/genome_bac_proteome.faa"
+ download="genome_bac_proteome.faa"
+ style="display:block; width:350px; box-sizing:border-box; margin-bottom:14px; padding:12px 22px; background-color:#0B3041; color:white; text-decoration:none; font-weight:bold; border-radius:15px; font-family:Arial,sans-serif;">
+↓ Secuencias de proteínas
+</a>
+
+<a href="https://eduardo1011.github.io/curso26/data/uniprotkb_DB_2767842.fasta"
+ download="uniprotkb_DB_2767842.fasta"
+ style="display:block; width:350px; box-sizing:border-box; margin-bottom:14px; padding:12px 22px; background-color:#0B3041; color:white; text-decoration:none; font-weight:bold; border-radius:15px; font-family:Arial,sans-serif;">
+↓ Fasta: Base de Datos
+</a>
+
+<a href="https://eduardo1011.github.io/curso26/data/uniprotkb_DB_2767842.tsv"
+ download="uniprotkb_DB_2767842.tsv"
+ style="display:block; width:350px; box-sizing:border-box; margin-bottom:14px; padding:12px 22px; background-color:#0B3041; color:white; text-decoration:none; font-weight:bold; border-radius:15px; font-family:Arial,sans-serif;">
+↓ GO: Base de Datos
+</a>
+
+<div style="margin-top:30px; font-family:Arial,sans-serif;">
+  <div style="margin-bottom:25px; padding:12px 18px; border-left:6px solid #A85A00; background:linear-gradient(90deg, rgba(168,90,0,0.12), rgba(168,90,0,0)); border-radius:4px;">
+    <h2 style="margin:0; color:#A85A00; font-size:25px; font-weight:600;">
+      Descarga de programas
+    </h2>
+  </div>
+</div>
+
+<a href="https://eduardo1011.github.io/curso26/data/makeblastdb.exe"
+ download="makeblastdb.exe"
+ style="display:block; width:350px; box-sizing:border-box; margin-bottom:14px; padding:12px 22px; background-color:#0B3041; color:white; text-decoration:none; font-weight:bold; border-radius:15px; font-family:Arial,sans-serif;">
+↓ MAKEBLASTDB: Creación de Base de Datos 
+</a>
+
+<a href="https://eduardo1011.github.io/curso26/data/blastp.exe"
+ download="blastp.exe"
+ style="display:block; width:350px; box-sizing:border-box; margin-bottom:14px; padding:12px 22px; background-color:#0B3041; color:white; text-decoration:none; font-weight:bold; border-radius:15px; font-family:Arial,sans-serif;">
+↓ BLASTP: Alineamiento de proteínas
+</a>
 
 
 <div style="margin-top:30px; font-family:Arial,sans-serif;">
