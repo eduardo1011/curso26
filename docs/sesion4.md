@@ -114,3 +114,31 @@ subprocess.call('blastp -db db/uniprotkb -query .faa -evalue 1E-6 -outfmt "6 qac
                 ' -out blastp_genome_bac_proteome.txt', shell = True)
 ```
 
+
+```python
+genoma = read_fna(file_fna = 'genome_bac.fna')
+
+L = len(genoma)
+v = 10000
+d = 1000
+N = int(((L - v) / d) + 1)
+
+gc_global = round(((genoma.count('C') + genoma.count('G')) / len(genoma)) * 100, 3)
+
+GCSK = []
+GCc = []
+D = 0
+for i in range(N):
+    w = genoma[D:D+v]
+    # GC Skew
+    resta = w.count('G') - w.count('C')
+    suma = w.count('G') + w.count('C')
+    gc_skew = round(resta / suma, 3)
+    # GC content
+    gc_content = (suma / len(w)) * 100
+    gc_norm = round(gc_content - gc_global, 3)
+    #print(w, gc_skew, gc_norm)
+    GCSK.append(gc_skew)
+    GCc.append(gc_norm)
+    D += d
+```
