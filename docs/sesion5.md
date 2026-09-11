@@ -80,13 +80,13 @@
 <a href="https://eduardo1011.github.io/curso26/data/proteoma_query.faa"
  download="proteoma_query.faa"
  style="display:block; width:350px; box-sizing:border-box; margin-bottom:14px; padding:12px 22px; background-color:#0B3041; color:white; text-decoration:none; font-weight:bold; border-radius:15px; font-family:Arial,sans-serif;">
-↓ Archivo GFF con coordenadas de los genes
+↓ Archivo con proteínas desconcidas
 </a>
 
 <a href="https://eduardo1011.github.io/curso26/data/ReferenceGeneCatalog.txt"
  download="ReferenceGeneCatalog.txt"
  style="display:block; width:350px; box-sizing:border-box; margin-bottom:14px; padding:12px 22px; background-color:#0B3041; color:white; text-decoration:none; font-weight:bold; border-radius:15px; font-family:Arial,sans-serif;">
-↓ Archivo GFF con coordenadas de los genes
+↓ Metadata de la tabla AMRProt_DB
 </a>
 
 
