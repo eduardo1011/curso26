@@ -18,6 +18,14 @@
 ↓ Función para generar GO Slim
 </a>
 
+<a href="https://eduardo1011.github.io/curso26/data/goslim_prokaryote.obo"
+ download="goslim_prokaryote.obo"
+ style="display:block; width:350px; box-sizing:border-box; margin-bottom:14px; padding:12px 22px; background-color:#0B3041; color:white; text-decoration:none; font-weight:bold; border-radius:15px; font-family:Arial,sans-serif;">
+↓ Función para generar GO Slim
+</a>
+
+# [Ontología Genética](https://current.geneontology.org/ontology/go-basic.obo)
+
 <a href="https://eduardo1011.github.io/curso26/data/genome_plot.py"
  download="genome_plot.py"
  style="display:block; width:350px; box-sizing:border-box; margin-bottom:14px; padding:12px 22px; background-color:#0B3041; color:white; text-decoration:none; font-weight:bold; border-radius:15px; font-family:Arial,sans-serif;">
@@ -46,3 +54,20 @@
 - ### 3 Alguna de estas proteínas se encuentra en algún plásmido?
 - ### 4 Descubre de qué microorganismo se trata.
 ```
+
+<div style="margin-top:30px; font-family:Arial,sans-serif;">
+  <div style="margin-bottom:25px; padding:12px 18px; border-left:6px solid #A85A00; background:linear-gradient(90deg, rgba(168,90,0,0.12), rgba(168,90,0,0)); border-radius:4px;">
+    <h2 style="margin:0; color:#A85A00; font-size:25px; font-weight:600;">
+      Descarga de archivos
+    </h2>
+  </div>
+</div>
+
+<a href="https://eduardo1011.github.io/curso26/data/genome_bac.gff"
+ download="genome_bac.gff"
+ style="display:block; width:350px; box-sizing:border-box; margin-bottom:14px; padding:12px 22px; background-color:#0B3041; color:white; text-decoration:none; font-weight:bold; border-radius:15px; font-family:Arial,sans-serif;">
+↓ Coordenadas de los genes en el genoma
+</a>
+
+
+
