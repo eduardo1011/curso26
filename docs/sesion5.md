@@ -66,7 +66,7 @@
 <div style="margin-top:30px; font-family:Arial,sans-serif;">
   <div style="margin-bottom:25px; padding:12px 18px; border-left:6px solid #A85A00; background:linear-gradient(90deg, rgba(168,90,0,0.12), rgba(168,90,0,0)); border-radius:4px;">
     <h2 style="margin:0; color:#A85A00; font-size:25px; font-weight:600;">
-      Descarga de archivos para el ejericio final
+      Descarga de archivos para el ejercicio final
     </h2>
   </div>
 </div>
