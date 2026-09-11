@@ -24,7 +24,9 @@
 ↓ Función para generar GO Slim
 </a>
 
-# [Ontología Genética](https://current.geneontology.org/ontology/go-basic.obo)
+<a href="https://current.geneontology.org/ontology/go-basic.obo" target="_blank" rel="noopener noreferrer">
+  Ontología Genética
+</a>
 
 <a href="https://eduardo1011.github.io/curso26/data/genome_plot.py"
  download="genome_plot.py"
